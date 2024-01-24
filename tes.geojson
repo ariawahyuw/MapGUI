@@ -6,6 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "107.13801309589556",
+                    "-7.3448812755556165"
+                ]
+            },
+            "properties": {
+                "objectid": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "107.61843065710237",
                     "-7.353198021721774"
                 ]
